@@ -9,4 +9,4 @@ This is **README** file
 4. Creating a Sticky Nav Header
 5. Deploy it Netlify/Github pages
 
-Layout: 
+Layout: https://65cf7b587739e700a8b160c6--singular-panda-718001.netlify.app/
